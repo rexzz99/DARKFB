@@ -1,5 +1,3 @@
-TOOLS DARK FB NO LICENSE
-
 pkg install python2
 pkg install git
 pkg install curl
